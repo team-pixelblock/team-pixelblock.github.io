@@ -14,7 +14,7 @@
         "dangerColor": "#ff9966",
         "mainFont": "Jost",
         "display1Font": "Gilbert-Color-Bold-Preview5",
-        "display1Size": 4.6,
+        "display1Size": "4.2",
         "display2Font": "Gilbert-Color-Bold-Preview5",
         "display2Size": 3,
         "display5Font": "Jost",
@@ -23,10 +23,10 @@
         "display7Size": 1.2,
         "display4Font": "Jost",
         "display4Size": 1.1,
-        "isRoundedButtons": false,
+        "isRoundedButtons": true,
         "underlinedLinks": false,
-        "isAnimatedOnScroll": false,
-        "isScrollToTopButton": false
+        "isAnimatedOnScroll": true,
+        "isScrollToTopButton": true
       },
       "additionalSetColors": [
         "#ebbef9"
